@@ -1,4 +1,8 @@
-public class Person
+namespace InovationPlay.Data
+
 {
-    p   
+    public class Person
+    {
+
+    }
 }
